@@ -1,0 +1,7 @@
+C:\Users\tomas.urban\source\repos\DruhaHodina\DruhaHodina\bin\Debug\DruhaHodina.exe.config
+C:\Users\tomas.urban\source\repos\DruhaHodina\DruhaHodina\bin\Debug\DruhaHodina.exe
+C:\Users\tomas.urban\source\repos\DruhaHodina\DruhaHodina\bin\Debug\DruhaHodina.pdb
+C:\Users\tomas.urban\source\repos\DruhaHodina\DruhaHodina\obj\Debug\DruhaHodina.csproj.AssemblyReference.cache
+C:\Users\tomas.urban\source\repos\DruhaHodina\DruhaHodina\obj\Debug\DruhaHodina.csproj.CoreCompileInputs.cache
+C:\Users\tomas.urban\source\repos\DruhaHodina\DruhaHodina\obj\Debug\DruhaHodina.exe
+C:\Users\tomas.urban\source\repos\DruhaHodina\DruhaHodina\obj\Debug\DruhaHodina.pdb
